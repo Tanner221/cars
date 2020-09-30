@@ -1,0 +1,19 @@
+
+
+Model: F150
+Maker: Ford
+Model: F150
+Color: Black
+Type: Truck
+
+Model: Civic
+Maker: Honda
+Model: Civic
+Color: Gold
+Type: Car
+
+Model: 
+Maker: 
+Model: 
+Color: Red
+Type: Van
