@@ -17,3 +17,9 @@ Maker:
 Model: 
 Color: Red
 Type: Van
+
+Model: Ridgeline
+Maker: Honda
+Model: Ridgeline
+Color: Silver
+Type: Truck
