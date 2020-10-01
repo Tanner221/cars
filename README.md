@@ -6,6 +6,17 @@ This program is to help those who have too many cars to count. This program asks
 ## Execution:
 The installation of this program is very simple. Simply download the cars.py file and run the program in your terminal/command prompt. Type python followed by the location and name of the file. The carsList.txt file should be created in the same location as this program.
 
-## Photos
-[Input Example](RegInputCar.png)
-[Output Example](outputCars.png)
+## Photos:
+![Input Example](RegInputCar.png)
+![Output Example](outputCars.png)
+
+## Principles Used:
+* Variables
+* Functions
+* Conditionals
+* Loops
+* Data Structure (list)
+* Class
+* Flie Transfer
+
+If you have any questions, feel free to comment
