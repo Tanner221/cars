@@ -19,4 +19,12 @@ The installation of this program is very simple. Simply download the cars.py fil
 * Class
 * Flie Transfer
 
+## Useful Websites
+* [While Loop W3 Schools](https://www.w3schools.com/python/python_while_loops.asp)
+* [Python Classes](https://www.w3schools.com/python/python_classes.asp
+)
+* [Write to Files](https://www.w3schools.com/python/python_file_write.asp)
+* [Python Lists](https://www.w3schools.com/python/python_lists.asp)
+
+
 If you have any questions, feel free to comment
